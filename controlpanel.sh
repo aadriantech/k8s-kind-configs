@@ -68,3 +68,4 @@ case $cluster_choice in
 esac
 
 echo "Container ${action} process completed."
+docker ps
